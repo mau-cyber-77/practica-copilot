@@ -1,0 +1,6 @@
+Ingrese el valor de a: 2                                                                             
+Ingrese el valor de b: 3                                                                             
+Ingrese el valor de c: 4                                                  
+expected a nonnegative input, got -1.0
+Ingrese el valor de n: 4
+El valor aproximado de n! para n = 4.0 es: 47.012350265786594
